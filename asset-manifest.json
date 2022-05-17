@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rpg/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/rpg/static/js/main.02091504.chunk.js",
+    "main.js.map": "/rpg/static/js/main.02091504.chunk.js.map",
+    "runtime-main.js": "/rpg/static/js/runtime-main.10701232.js",
+    "runtime-main.js.map": "/rpg/static/js/runtime-main.10701232.js.map",
+    "static/js/2.cc7dc321.chunk.js": "/rpg/static/js/2.cc7dc321.chunk.js",
+    "static/js/2.cc7dc321.chunk.js.map": "/rpg/static/js/2.cc7dc321.chunk.js.map",
+    "static/js/3.82fc8dc7.chunk.js": "/rpg/static/js/3.82fc8dc7.chunk.js",
+    "static/js/3.82fc8dc7.chunk.js.map": "/rpg/static/js/3.82fc8dc7.chunk.js.map",
+    "index.html": "/rpg/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/rpg/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.cc7dc321.chunk.js.LICENSE.txt": "/rpg/static/js/2.cc7dc321.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10701232.js",
+    "static/js/2.cc7dc321.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.02091504.chunk.js"
+  ]
+}
